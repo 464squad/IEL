@@ -1,7 +1,7 @@
 # CMP 464 – Full Stack Web Development
 
 [Department of Computer Science](http://lehman.edu/academics/mathematics-computer-science/index.php), Lehman College  
-Spring, 2023
+Fall, 2023
 
 **Instructor:** Cameron Flowers  
 **Lecture:** Mondays & Wednesdays 6:00-7:40 p.m.  
@@ -108,15 +108,11 @@ Student grades in this course will be assigned as follows:
 ## Tentative Course Schedule
 Week 0-1: Onboarding
 
-Week 2-4: Front End
+Week 2-4: Front End (HTML/CSS/JS)
 
-Week 5-7: Back End
+Week 5-9: React
 
-Week 8: Cloud
-
-Week 9-11: Project 1
-
-Week 12-14: Project 2 (Final)
+Week 10-14: Backend (Node/Express)
 
 <!-- | Lecture | Date | Content | Readings | Assigned | Due |
 | ------- | ------- | ---------------------------------------- | ---------------------------- | ---------------------------------- | -------------------------------------- |

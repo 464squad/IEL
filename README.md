@@ -37,7 +37,7 @@ Tasks and assignments are intended to align with the learning outcomes specified
 
 ### Class attendance
 
-**Attendance is a graded component of this class**, and students are required to attend all lectures to fully benefit from the delivered material and peer discussion.
+**Attendance is not a graded component of this class**, but students are required to attend all lectures to fully benefit from the delivered material and peer discussion. There will be in-class time for projects to help students full benefit from instructor and peer time. 
 
 ### Course readings
 
@@ -47,7 +47,7 @@ In adhering to "real-world" industry norms, this class does not have any require
 
 Student grades in this course will be assigned as follows:
 
-- **Participation (50%)**
+<!--- **Participation (50%)**
 
   - Intents:
 
@@ -67,43 +67,56 @@ Student grades in this course will be assigned as follows:
 * **Project Delivery (20%)**
   - Intents:
     - Ensuring professionalism in submitting work in a timely and organized fashion
+-->
 
-<!-- - **Assignment 0 (1%)**
-
-  - Work environment onboarding
+- **Project 0 (5%)**
+  - Codecademy HTML/CSS
   - Intents:
-    - Understand the professional tools used for team work
-    - Identify student strengths and desired learning outcomes
-    - Ensurse student familiarity with Git/GitHub
-
-- **Assignment 1 (10%)**
-
+    - Preparation for the course
+    
+- **Project 1 - Multipage HTML (10%)**
   - Front End Fundamentals
   - Intents:
-    - Demonstrate intermediate knowledge of HTML/CSS and Javascript
-    - Identify tools for
+    - Demonstrate fundamental knowledge of HTML/CSS
     - Add to students' portfolio of work
-    - Practice code collaboration
+    - Practice version control
+    - Opportunities for peer collaboration
 
-- **Check In 3 (10%)**
+- **Project 2 - JS DOM (10%)**
+  - Javascript Fundamentals
+  - Intents:
+    - Demonstrate intermediate knowledge of HTML/CSS and Javascript
+    - Add to students' portfolio of work
+    - Opportunities for peer collaboration
 
+- **Project 3 - React App 1 (15%)**
   - Intermediate React
   - Intents:
-
-    - Demonstrate ability to develop a full-stack web application
+    - Demonstrate ability to develop a react web application
     - Add to students' GitHub portfolios
     - Practice code collaboration
 
-- **Project 1 (25%)**
+- **Project 4 - React App 2 (15%)**
   - React (front-end application)
   - Intents:
     - Demonstrate ability to develop a dynamic React application
     - Assess student's understanding of project scoping and management
     - Practice code collaboration and documentation
-- **Project 2 (25%)**
-- Intents: Advanced React
-  - Demonstrate knowledge of subject matter
-  - Practice pitching and presentation aspect of live interviews -->
+
+- **Project 5 - React App 3 (15%)**
+  - Intents: Advanced React
+    - Demonstrate knowledge of subject matter
+    - Practice pitching and presentation aspect of live interviews
+ 
+- **Project 6 - Express App 1 (15%)**
+  - Intents: Demonstrate knowledge of express
+    - Demonstrate knowledge of subject matter
+    - Practice pitching and presentation aspect of live interviews
+
+- **Project 7 - Express App 2 (15%)**
+  - Intents: Demonstrate knowledge of PERN stack
+    - Demonstrate knowledge of subject matter
+    - Practice pitching and presentation aspect of live interviews 
 
 ## Tentative Course Schedule
 Week 0-1: Onboarding

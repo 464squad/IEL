@@ -1,4 +1,4 @@
-# CMP 464 – Full Stack Web Development
+# CMP 464/343 – Full Stack Web Development
 
 [Department of Computer Science](http://lehman.edu/academics/mathematics-computer-science/index.php), Lehman College  
 Fall, 2023

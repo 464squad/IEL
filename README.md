@@ -1,10 +1,10 @@
 # CMP 464/343 – Full Stack Web Development
 
 [Department of Computer Science](http://lehman.edu/academics/mathematics-computer-science/index.php), Lehman College  
-Fall, 2023
+Fall, 2024
 
 **Instructor:** Cameron Flowers  
-**Lecture:** Mondays & Wednesdays 6:00-7:40 p.m.  
+**Lecture:** Mondays & Wednesdays 7:50-9:30 p.m.  
 **Grading:** Letter Grade
 
 ## Rationale
@@ -34,10 +34,6 @@ No web development experience is required; this course assumes that students do 
 ## Course Requirements
 
 Tasks and assignments are intended to align with the learning outcomes specified above.
-
-### Class attendance
-
-**Attendance is not a graded component of this class**, but students are required to attend all lectures to fully benefit from the delivered material and peer discussion. There will be in-class time for projects to help students full benefit from instructor and peer time. 
 
 ### Course readings
 

@@ -1,147 +1,116 @@
-# CMP 464/343 – Full Stack Web Development
+# Immersive Engineering Lab (CMP 464/343) - Full Stack Web Development
 
 [Department of Computer Science](http://lehman.edu/academics/mathematics-computer-science/index.php), Lehman College  
-Fall, 2024
 
-**Instructor:** Cameron Flowers  
-**Lecture:** Mondays & Wednesdays 7:50-9:30 p.m.  
-**Grading:** Letter Grade
+## Course Overview
+Welcome to the Immersive Engineering Lab! This course is designed to equip students with the practical skills needed to succeed in an AI-driven tech industry. Moving beyond just coding, this class emphasizes **systems design and architecture** to provide a holistic understanding of modern full-stack web development. Students will learn to conceptualize, build, and deploy scalable web applications while leveraging emerging technologies like AI to enhance productivity and quality.
 
-## Rationale
+By the end of this course, students will:
+- Understand the core components of modern web applications, including front-end, back-end, databases, APIs, and cloud infrastructure.
+- Develop systems architecture diagrams and understand the rationale behind design decisions, such as caching and scalability.
+- Gain hands-on experience building projects collaboratively using industry-standard tools and workflows.
+- Learn how to integrate AI tools into the development process, focusing on testing, QA, and automation.
 
-The professional landscape for engineers requires students to demonstrate a number of applied skills in technology, design, and management. In this course, students will be immersed in a professional engineering environment through rigorous project based work across the full stack and cloud environments. Students will build dynamic full-stack applications utilizing current industry-preferred frameworks and modules while learning best practices in project management, version control, and continuous integration.
+---
 
-## Course Aims and Outcomes
+## Course Format
 
-### Aims
+This course is about preparing you for the real world. The tech landscape is changing rapidly, and understanding how to design, build, and collaborate in an AI-driven environment will give you a competitive edge. Be curious, ask questions, and dive deep into the projects—your portfolio will thank you later!
 
-As a result of participating in this course, students will be able to more fully understand the architecture of production ready applications, demonstrate proficiency in full stack and cloud native development, and the professional workflows of leading engineering teams.
+### Class Schedule
+- **Weekly Meetings**: 2 sessions (1.5 hours each)
+  - **Lab Day**: Focus on hands-on building, collaborative exercises, and practical implementation.
+  - **Content Day**: Context setting, demonstrations, and deep dives into key concepts.
 
-### Specific Learning Outcomes
+### Learning Approach
+- **Active Learning**: Class time is dedicated to building projects and working through challenges collaboratively. Lectures are assigned as homework via readings or recorded videos.
+- **Flexible Labs**: Activities include:
+  - Developing systems architecture diagrams and whiteboarding exercises.
+  - Implementing design decisions, such as setting up caching mechanisms, scaling services, or integrating APIs.
+  - Creating deliverables to showcase on GitHub, such as functional prototypes, architecture diagrams, and documentation.
 
-By the end of this course, students will be well-versed in the workflows required for production ready applications and engineering teams. Students will be able to develop functional “full stack” web applications and discuss the benefits of various architectures, design patterns, and elements of production-readyness in groups. They will be introduced to concepts across the full-stack architecture including front end design and development with HTML/CSS and Javascript as well as back end development with a variety of languages including Java, Javascript and Python. The course will then introduce back-end web application concepts such as databases, application servers and cloud based hosting. Students will also learn Agile Development and project management workflows, and build production ready applications in small groups structured as real engineering teams.
+### Tools and Platforms
+Students will use the following tools throughout the course:
+- **GitHub**: For version control and project collaboration.
+- **Slack**: For communication and peer support.
+- **AI Tools**: Exploring technologies like GitHub Copilot and ChatGPT for coding assistance and QA.
+- **Development Frameworks**: React (with minimal JavaScript), Express, and database systems.
+- **Cloud Platforms**: Hands-on experience with cloud infrastructure for deployment and scalability.
 
-## Format and Procedures
+---
 
-This course meets twice a week. This course is intended to reflect industry norms as much as possible; to that end, project delivery and collaboration are emphasized over homework and written assessments.
+## Course Topics
+### Systems Architecture and Full Stack Development
+- Introduction to core components of a modern web application:
+  - **Front-End**: HTML, CSS, minimal JavaScript, and React basics.
+  - **Back-End**: Express.js, RESTful APIs, and Microservices architecture.
+  - **Databases**: Relational and NoSQL databases (PostgreSQL, MongoDB).
+  - **Cloud Infrastructure**: Basics of deployment, scaling, and serverless functions.
 
-## Assumptions
+### AI-Forward Development
+- Using AI for code generation, debugging, and optimization.
+- Understanding AI’s role in systems design and how to work alongside AI tools effectively.
+- QA and testing in an AI-driven workflow.
 
-This course has no prerequisite courses; however, students are expected to be proficient in general programming principles and able to code in at least one language. Such experience will ensure that students are able to expediently learn new programming languages as they are introduced in this course.
+### Collaborative Development
+- Agile workflows: Sprints, standups, and task management.
+- Version control best practices: Git and GitHub collaboration.
+- Communication and accountability through online platforms (Slack).
 
-No web development experience is required; this course assumes that students do not have any prior knowledge of the subject matter.
+### Practical Design Choices
+- Systems architecture principles: Caching, load balancing, and fault tolerance.
+- Diagramming and whiteboarding exercises for design planning.
+- Writing effective documentation and README files for projects.
 
-## Course Requirements
+---
 
-Tasks and assignments are intended to align with the learning outcomes specified above.
+## Weekly Schedule and Topics
 
-### Course readings
+| **Week** | **Content Day (Monday)**                                                                                   | **Lab Day (Wednesday)**                                                                                     | **Instructor Resources**                                                                                     |
+|----------|----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| 1 (Jan 27) | Course Introduction and Overview of Full Stack Web Development                                          | No Class                                                                                                   | [Full Stack Web Development - Coursera](https://www.coursera.org/learn/fullstack-web-development)           |
+| 2 (Feb 3)  | Introduction to HTML and CSS                                                                            | Hands-on Practice with HTML and CSS                                                                       | [HTML & CSS Basics](https://developer.mozilla.org/en-US/docs/Web/HTML)                                      |
+| 3 (Feb 10) | Introduction to JavaScript                                                                               | No Class                                                                                                   | [JavaScript Basics - MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)                        |
+| 4 (Feb 17) | No Class                                                                                                | JavaScript DOM Manipulation                                                                               | [DOM Manipulation Guide - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)      |
+| 5 (Feb 24) | Introduction to React.js                                                                                | Building a Simple React Application                                                                       | [React Official Docs](https://reactjs.org/docs/getting-started.html)                                        |
+| 6 (Mar 2)  | Introduction to Node.js and Express.js                                                                  | Creating RESTful APIs with Express                                                                        | [Node.js and Express Guide - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)|
+| 7 (Mar 9)  | Introduction to Databases                                                                               | Working with MongoDB                                                                                      | [MongoDB Basics](https://www.mongodb.com/docs/manual/introduction/)                                         |
+| 8 (Mar 16) | Introduction to Systems Architecture                                                                    | Designing System Architecture Diagrams                                                                    | [System Architecture - MIT OpenCourseWare](https://ocw.mit.edu/courses/esd-34-system-architecture-january-iap-2007/) |
+| 9 (Mar 23) | Introduction to Caching and Performance Optimization                                                    | Implementing Caching with Redis                                                                           | [Redis Documentation](https://redis.io/docs/)                                                               |
+| 10 (Mar 30) | No Class                                                                                               | Scaling Applications and Load Balancing                                                                   | [AWS Load Balancing](https://aws.amazon.com/elasticloadbalancing/)                                          |
+| 11 (Apr 8)  | Introduction to Authentication and Security                                                            | Implementing Authentication with JWT                                                                      | [JWT Authentication - JWT.io](https://jwt.io/introduction)                                                 |
+| 12 (Apr 15-19) | Spring Break - No Classes                                                                           | -                                                                                                         | -                                                                                                           |
+| 13 (Apr 22) | Introduction to Cloud Infrastructure                                                                   | Deploying a Full-Stack Application                                                                        | [Deploying React and Node.js Apps - Heroku](https://devcenter.heroku.com/categories/deploying-apps)         |
+| 14 (Apr 29) | Introduction to AI and Automation in Development                                                      | Using AI Tools for Coding and Debugging                                                                   | [GitHub Copilot](https://docs.github.com/en/copilot)                                                       |
+| 15 (May 6)  | Testing and Quality Assurance in Systems                                                              | Writing Unit Tests and API Testing                                                                        | [Jest Testing Guide](https://jestjs.io/docs/getting-started)                                                |
+| 16 (May 13) | Capstone Project Review and Wrap-Up                                                                   | Final Project Submission and Peer Reviews                                                                 | -                                                                                                           |
 
-In adhering to "real-world" industry norms, this class does not have any required texts, as all course material can be obtained through various free online resources. However, various readings will be recommended during the course of this class and will likely be helpful to student learning.
+---
 
-### Assignments
+## Grading and Expectations
+### Grading Breakdown
+1. **Attendance**: Regular attendance is critical for hands-on labs and collaborative exercises.
+2. **Project Delivery**: Graded based on GitHub commits, functionality of deliverables, and adherence to specified criteria.
+3. **Participation**: Active engagement through Slack, peer support, and class discussions.
 
-Student grades in this course will be assigned as follows:
+### Project Requirements
+- All projects must be hosted on GitHub with clear documentation (e.g., a README file).
+- Deliverables include both working prototypes and supplementary artifacts (e.g., architecture diagrams, testing plans).
 
-<!--- **Participation (50%)**
+---
 
-  - Intents:
+## Getting Started
+### Prerequisites
+- Basic programming knowledge (e.g., Java or Python).
+- Familiarity with foundational web concepts (HTML/CSS) is helpful but not required.
 
-    - Reinforce lecture content
-    - Practice writing code
-    - Learn to collaborate with other engineers
+### Resources
+To support your learning, you will have access to:
+- Recorded lectures and reading materials.
+- Sample projects and templates to kickstart development.
+- Online forums for peer collaboration and troubleshooting.
 
-- **Weekly Git Commits (15%)**
-  - Intents:
-    - Practice using GitHub (delivery/submission vehicle)
 
-* **Weekly Standups (15%)**
-
-  - Intents:
-    - Practice working in AGILE workflows with team and management
-
-* **Project Delivery (20%)**
-  - Intents:
-    - Ensuring professionalism in submitting work in a timely and organized fashion
--->
-
-- **Project 0 (5%)**
-  - Codecademy HTML/CSS
-  - Intents:
-    - Preparation for the course
-    
-- **Project 1 - Multipage HTML (10%)**
-  - Front End Fundamentals
-  - Intents:
-    - Demonstrate fundamental knowledge of HTML/CSS
-    - Add to students' portfolio of work
-    - Practice version control
-    - Opportunities for peer collaboration
-
-- **Project 2 - JS DOM (10%)**
-  - Javascript Fundamentals
-  - Intents:
-    - Demonstrate intermediate knowledge of HTML/CSS and Javascript
-    - Add to students' portfolio of work
-    - Opportunities for peer collaboration
-
-- **Project 3 - React App 1 (15%)**
-  - Intermediate React
-  - Intents:
-    - Demonstrate ability to develop a react web application
-    - Add to students' GitHub portfolios
-    - Practice code collaboration
-
-- **Project 4 - React App 2 (15%)**
-  - React (front-end application)
-  - Intents:
-    - Demonstrate ability to develop a dynamic React application
-    - Assess student's understanding of project scoping and management
-    - Practice code collaboration and documentation
-
-- **Project 5 - React App 3 (15%)**
-  - Intents: Advanced React
-    - Demonstrate knowledge of subject matter
-    - Practice pitching and presentation aspect of live interviews
- 
-- **Project 6 - Express App 1 (15%)**
-  - Intents: Demonstrate knowledge of express
-    - Demonstrate knowledge of subject matter
-    - Practice pitching and presentation aspect of live interviews
-
-- **Project 7 - Express App 2 (15%)**
-  - Intents: Demonstrate knowledge of PERN stack
-    - Demonstrate knowledge of subject matter
-    - Practice pitching and presentation aspect of live interviews 
-
-## Tentative Course Schedule
-Week 0-1: Onboarding
-
-Week 2-4: Front End (HTML/CSS/JS)
-
-Week 5-9: React
-
-Week 10-14: Backend (Node/Express)
-
-<!-- | Lecture | Date | Content | Readings | Assigned | Due |
-| ------- | ------- | ---------------------------------------- | ---------------------------- | ---------------------------------- | -------------------------------------- |
-| 1       | Week 1  | Intro                                    | --                           | --                                 | --                                     |
-| 2       | Week 2  | Fundamentals of JavaScript Pt. 1         |
-| 3       | Week 3  | Fundamentals of JavaScript Pt. 2         | --                           |
-| 4       | Week 4  | Intro to React.JS Pt. 1                  | [React](https://reactjs.org) | [HW1](./hw1/README.md)             | --                                     |
-| 5       | Week 5  | Intro to React.JS Pt. 2                  | --                           | --                                 | HW 1 Due                               |
-| 6       | Week 6  | Fundamentals of React                    | --                           | [HW2](./hw2/README.md)             |
-| 7       | Week 7  | Fundamentals of React                    | --                           | --                                 | HW2 Due                                |
-| 8       | Week 8  | Conditional Rendering with State & Props | --                           | [HW3](./hw3/README.md)             | --                                     |
-| 9       | Week 9  | Styling in React                         | --                           | [HW3](./hw3/README.md)             | --                                     |
-| 10      | Week 10 | Navigation with React-Router             | --                           | --                                 | --                                     | HW 3 Due |
-| 11      | Week 11 | External Modules                         | --                           | --                                 |                                        | -- |
-| 12      | Week 12 | Async-Await & Fetch                      | --                           | --                                 | [PROJ 1](./proj1/README.md)            |
-| 13      | Week 13 | Redux                                    | --                           | [Final Project](./final/README.md) | --                                     |
-| 14      | Week 14 | Cloud Databases                          | --                           | [Final Project](./final/README.md) | --                                     |
-| 15      | Week 15 | [Final Project](./final/README.md)       |
-| 16      | Week 16 | [Final Project](./final/README.md)       | --                           | --                                 | [Final Project](./final/README.md) Due |
-| --      | TBA     | --                                       | --                           | --                                 | Final Showcase                         | -->
 
 ## Academic Integrity
 

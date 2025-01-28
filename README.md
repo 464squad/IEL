@@ -68,7 +68,7 @@ Students will use the following tools throughout the course:
 
 | **Week** | **Content Day (Monday)**                                                                                   | **Lab Day (Wednesday)**                                                                                     | **Instructor Resources**                                                                                     |
 |----------|----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| 1 (Jan 27) | Course Introduction and Overview of Full Stack Web Development                                          | No Class                                                                                                   | [Full Stack Web Development - Coursera](https://www.coursera.org/learn/fullstack-web-development)           |
+| 1 (Jan 27) | Course Introduction and Overview of Full Stack Web Development                                          | No Class                                                                                                   | [Full Stack Web Development - Intro](https://www.youtube.com/live/Mmeo8DmTodE?si=TkF-o6E07ZGdOEXN)           |
 | 2 (Feb 3)  | Introduction to HTML and CSS                                                                            | Hands-on Practice with HTML and CSS                                                                       | [HTML & CSS Basics](https://developer.mozilla.org/en-US/docs/Web/HTML)                                      |
 | 3 (Feb 10) | Introduction to JavaScript                                                                               | No Class                                                                                                   | [JavaScript Basics - MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)                        |
 | 4 (Feb 17) | No Class                                                                                                | JavaScript DOM Manipulation                                                                               | [DOM Manipulation Guide - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)      |
@@ -86,7 +86,7 @@ Students will use the following tools throughout the course:
 | 16 (May 13) | Capstone Project Review and Wrap-Up                                                                   | Final Project Submission and Peer Reviews                                                                 | -                                                                                                           |
 
 ---
-
+    
 ## Grading and Expectations
 ### Grading Breakdown
 1. **Attendance**: Regular attendance is critical for hands-on labs and collaborative exercises.

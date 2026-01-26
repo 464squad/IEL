@@ -65,23 +65,23 @@ Students will use the following tools throughout the course:
 
 | **Week** | **Content Day (Monday)**                                                                                   | **Lab Day (Wednesday)**                                                                                     | **Instructor Resources**                                                                                     |
 |----------|----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| 1 (Aug 27) | Course Introduction and Overview of Full Stack Web Development                                          | No Class                                                                                                   | [Full Stack Web Development - Intro](https://www.youtube.com/live/Mmeo8DmTodE?si=TkF-o6E07ZGdOEXN)           |
-| 2 (Sep 1)  | No Class                                                                                                | Introduction to HTML and CSS                                                                               | [HTML & CSS Basics](https://developer.mozilla.org/en-US/docs/Web/HTML)                                      |
-| 3 (Sep 8) | Introduction to JavaScript                                                                               | JavaScript DOM Manipulation                                                                                | [JavaScript Basics - MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)                        |
-| 4 (Sep 15) | React Foundations                                                                                       | React Foundations                                                                                         | [React Foundations](https://nextjs.org/learn/react-foundations)      |
-| 5 (Sep 22) | No Class                                                                                                | No Class                                                                                                  | [Vite Quick Start](https://vite.dev/guide/)                                        |
-| 6 (Sep 29)  | React Fundamentals (State and Props)                                                                   | No Class                                                                                                  | [Learn React](https://react.dev)|
-| 7 (Oct 6)  | Recap of React Fundamental                                                                              | Deploying React Sites                                                                                     | []()                                     |
-| 8 (Oct 13) | No Class                                                                                                | Introduction to Servers                                                                                   | [Intro to Express](https://expressjs.com) |
-| 9 (Oct 20) | No Class                                                                                                | CRUD API with Express and Postgres                                                                        | [CRUD API](https://blog.logrocket.com/crud-rest-api-node-js-express-postgresql/) |
-| 10 (Oct 27) | Front End vs Back End                                                                                  | End to End Full Stack Build                                                                               | []()                                          |
-| 11 (Nov 3)  | Intro to NextJS                                                                                        | Tailwind CSS / Chakra UI                                                                                  | []()         |
-| 12 (Nov 10) | Introduction to Cloud Infrastructure                                                                   | Cloud Compute and Storage                                                                                 | -                                                                                                           |
-| 13 (Nov 17) | Introduction to Docker                                                                                 | Containerization                                                                                          |                                                                                                            |
-| 14 (Nov 24) | Introduction to AI and Automation in Development                                                      | Using AI Tools for Coding and Debugging                                                                   | [GitHub Copilot](https://docs.github.com/en/copilot)                                                       |
-| 15 (Dec 1)  | Testing and Quality Assurance in Systems                                                              | Writing Unit Tests and API Testing                                                                        | [Jest Testing Guide](https://jestjs.io/docs/getting-started)                                                |
-| 16 (Dec 8) | Capstone Project Review and Wrap-Up                                                                     | Final Project Submission and Peer Reviews                                                                 | -                                                                                                           |
-| 17 (Dec 15) | Finals Week                                                                                            | Finals Week                                                                                      | -                                                                                                           |
+| 1 (Jan 26) | Course Introduction and Overview of Full Stack Web Development | Introduction to HTML and CSS | [Full Stack Web Development - Intro](https://www.youtube.com/live/Mmeo8DmTodE?si=TkF-o6E07ZGdOEXN) |
+| 2 (Feb 2)  | Introduction to JavaScript | Introduction to JavaScript | [JavaScript Basics - MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) |
+| 3 (Feb 9) | Introduction to JavaScript | JavaScript DOM Manipulation | -- |
+| 4 (Feb 16) | No Class | React Foundations | [React Foundations](https://nextjs.org/learn/react-foundations) |
+| 5 (Feb 23) | React Foundations (JSX) | React Foundations (State and Props) | [Vite Quick Start](https://vite.dev/guide/) |
+| 6 (Mar 2)  | React Foundations (Forms and Event Handling) | React Foundations (Conditional Rendering)  | [Learn React](https://react.dev) |
+| 7 (Mar 9)  | Recap of React Fundamental | Deploying React Sites | []() |
+| 8 (Mar 16) | Introduction to Backend Programming | HTTP GET / POST Requests | [Intro to Express](https://expressjs.com) |
+| 9 (Mar 23) | [CRUD API](https://blog.logrocket.com/crud-rest-api-node-js-express-postgresql/)  | Deploying HTTP Servers |  -- |
+| 10 (Mar 30) | Front End vs Back End | End to End Full Stack Build | -- |
+| 11 (Apr 6)  | Intro to NextJS | Tailwind CSS / Chakra UI | -- |
+| 12 (Apr 13) | Introduction to Cloud Infrastructure | Cloud Compute and Storage | - |
+| 13 (Apr 20) | Introduction to Docker | Containerization | -- |
+| 14 (Apr 27) | Introduction to AI and Automation in Development | Using AI Tools for Coding and Debugging | [GitHub Copilot](https://docs.github.com/en/copilot) |
+| 15 (May 4)  | Testing and Quality Assurance in Systems | Writing Unit Tests and API Testing | [Jest Testing Guide](https://jestjs.io/docs/getting-started)|
+| 16 (May 11) | Capstone Project Review and Wrap-Up | Final Project Submission and Peer Reviews | - |
+| 17 (May 18) | Finals Week | Finals Week | -|
 
 ---
     

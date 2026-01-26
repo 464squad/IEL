@@ -75,9 +75,9 @@ Students will use the following tools throughout the course:
 | 8 (Mar 16) | Introduction to Backend Programming | HTTP GET / POST Requests | [Intro to Express](https://expressjs.com) |
 | 9 (Mar 23) | [CRUD API](https://blog.logrocket.com/crud-rest-api-node-js-express-postgresql/)  | Deploying HTTP Servers |  -- |
 | 10 (Mar 30) | Front End vs Back End | End to End Full Stack Build | -- |
-| 11 (Apr 6)  | Intro to NextJS | Tailwind CSS / Chakra UI | -- |
-| 12 (Apr 13) | Introduction to Cloud Infrastructure | Cloud Compute and Storage | - |
-| 13 (Apr 20) | Introduction to Docker | Containerization | -- |
+| 11 (Apr 6)  | No Class | No Class |
+| 12 (Apr 13) | Intro to NextJS | Tailwind CSS / Chakra UI | Introduction to NextJS | - |
+| 13 (Apr 20) | Introduction to Cloud Computing | Containerization | -- |
 | 14 (Apr 27) | Introduction to AI and Automation in Development | Using AI Tools for Coding and Debugging | [GitHub Copilot](https://docs.github.com/en/copilot) |
 | 15 (May 4)  | Testing and Quality Assurance in Systems | Writing Unit Tests and API Testing | [Jest Testing Guide](https://jestjs.io/docs/getting-started)|
 | 16 (May 11) | Capstone Project Review and Wrap-Up | Final Project Submission and Peer Reviews | - |

@@ -63,25 +63,29 @@ Students will use the following tools throughout the course:
 
 ## Weekly Schedule and Topics
 
-| **Week** | **Content Day (Monday)**                                                                                   | **Lab Day (Wednesday)**                                                                                     | **Instructor Resources**                                                                                     |
-|----------|----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| 1 (Jan 26) | Course Introduction and Overview of Full Stack Web Development | Introduction to HTML and CSS | [Full Stack Web Development - Intro](https://www.youtube.com/live/Mmeo8DmTodE?si=TkF-o6E07ZGdOEXN) |
-| 2 (Feb 2)  | Introduction to JavaScript | Introduction to JavaScript | [JavaScript Basics - MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) |
-| 3 (Feb 9) | Introduction to JavaScript | JavaScript DOM Manipulation | -- |
-| 4 (Feb 16) | No Class | React Foundations | [React Foundations](https://nextjs.org/learn/react-foundations) |
-| 5 (Feb 23) | React Foundations (JSX) | React Foundations (State and Props) | [Vite Quick Start](https://vite.dev/guide/) |
-| 6 (Mar 2)  | React Foundations (Forms and Event Handling) | React Foundations (Conditional Rendering)  | [Learn React](https://react.dev) |
-| 7 (Mar 9)  | Recap of React Fundamental | Deploying React Sites | []() |
-| 8 (Mar 16) | Introduction to Backend Programming | HTTP GET / POST Requests | [Intro to Express](https://expressjs.com) |
-| 9 (Mar 23) | [CRUD API](https://blog.logrocket.com/crud-rest-api-node-js-express-postgresql/)  | Deploying HTTP Servers |  -- |
-| 10 (Mar 30) | Front End vs Back End | End to End Full Stack Build | -- |
-| 11 (Apr 6)  | No Class | No Class |
-| 12 (Apr 13) | Intro to NextJS | Tailwind CSS / Chakra UI | Introduction to NextJS | - |
-| 13 (Apr 20) | Introduction to Cloud Computing | Containerization | -- |
-| 14 (Apr 27) | Introduction to AI and Automation in Development | Using AI Tools for Coding and Debugging | [GitHub Copilot](https://docs.github.com/en/copilot) |
-| 15 (May 4)  | Testing and Quality Assurance in Systems | Writing Unit Tests and API Testing | [Jest Testing Guide](https://jestjs.io/docs/getting-started)|
-| 16 (May 11) | Capstone Project Review and Wrap-Up | Final Project Submission and Peer Reviews | - |
-| 17 (May 18) | Finals Week | Finals Week | -|
+<!-- Schedule hidden while remapping for Fall 2026 (Mon/Wed; first class Mon Aug 31).
+     Content shifts past No Class Mondays. Duplicate "Introduction to JavaScript" Content day
+     combined into one so topics fit available Mondays. Final Project folded into Dec 14 (no Wed).
+| **Week** | **Content Day (Monday)** | **Lab Day (Wednesday)** | **Instructor Resources** |
+|----------|--------------------------|-------------------------|--------------------------|
+| 1 (Aug 31) | Course Introduction and Overview of Full Stack Web Development | Introduction to HTML and CSS | [Full Stack Web Development - Intro](https://www.youtube.com/live/Mmeo8DmTodE?si=TkF-o6E07ZGdOEXN) |
+| 2 (Sep 7) | No Class (Labor Day) | Introduction to JavaScript | [JavaScript Basics - MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) |
+| 3 (Sep 14) | Introduction to JavaScript | JavaScript DOM Manipulation | -- |
+| 4 (Sep 21) | No Class | React Foundations | [React Foundations](https://nextjs.org/learn/react-foundations) |
+| 5 (Sep 28) | React Foundations (JSX) | React Foundations (State and Props) | [Vite Quick Start](https://vite.dev/guide/) |
+| 6 (Oct 5) | React Foundations (Forms and Event Handling) | React Foundations (Conditional Rendering) | [Learn React](https://react.dev) |
+| 7 (Oct 12) | No Class (Columbus Day / Indigenous Peoples Day; Tue Oct 13 follows Monday schedule) | Deploying React Sites | -- |
+| 8 (Oct 19) | Recap of React Fundamental | HTTP GET / POST Requests | [Intro to Express](https://expressjs.com) |
+| 9 (Oct 26) | Introduction to Backend Programming | Deploying HTTP Servers | -- |
+| 10 (Nov 2) | [CRUD API](https://blog.logrocket.com/crud-rest-api-node-js-express-postgresql/) | End to End Full Stack Build | -- |
+| 11 (Nov 9) | Front End vs Back End | Tailwind CSS / Chakra UI | -- |
+| 12 (Nov 16) | Intro to NextJS | Containerization | -- |
+| 13 (Nov 23) | Introduction to Cloud Computing | No Class (Thanksgiving week) | -- |
+| 14 (Nov 30) | Introduction to AI and Automation in Development | Using AI Tools for Coding and Debugging | [GitHub Copilot](https://docs.github.com/en/copilot) |
+| 15 (Dec 7) | Testing and Quality Assurance in Systems | Writing Unit Tests and API Testing | [Jest Testing Guide](https://jestjs.io/docs/getting-started) |
+| 16 (Dec 14) | Capstone Project Review and Wrap-Up; Final Project Submission and Peer Reviews | — | -- |
+| 17 (Dec 15–21) | Finals Week | Finals Week | -- |
+-->
 
 ---
     

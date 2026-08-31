@@ -61,11 +61,11 @@ Students will use the following tools throughout the course:
 
 ---
 
-## Weekly Schedule and Topics
-
-<!-- Schedule hidden while remapping for Fall 2026 (Mon/Wed; first class Mon Aug 31).
+<!-- Weekly Schedule and Topics — hidden while remapping for Fall 2026 (Mon/Wed; first class Mon Aug 31).
      Content shifts past No Class Mondays. Duplicate "Introduction to JavaScript" Content day
      combined into one so topics fit available Mondays. Final Project folded into Dec 14 (no Wed).
+## Weekly Schedule and Topics
+
 | **Week** | **Content Day (Monday)** | **Lab Day (Wednesday)** | **Instructor Resources** |
 |----------|--------------------------|-------------------------|--------------------------|
 | 1 (Aug 31) | Course Introduction and Overview of Full Stack Web Development | Introduction to HTML and CSS | [Full Stack Web Development - Intro](https://www.youtube.com/live/Mmeo8DmTodE?si=TkF-o6E07ZGdOEXN) |

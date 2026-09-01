@@ -15,24 +15,25 @@ By the end of this course, students will:
 
 ## Course Format
 
-This course is about preparing you for the real world. The tech landscape is changing rapidly, and understanding how to design, build, and collaborate in an AI-driven environment will give you a competitive edge. Be curious, ask questions, and dive deep into the projects—your portfolio will thank you later!
+This course is about preparing you for the real world. The tech landscape is changing rapidly, and understanding how to design, build, and collaborate in an AI-driven environment will give you a competitive edge. You'll build three products over the semester—for yourself, for a business or entrepreneur in your network, and one of your own—practicing discovery, architecture, and responsible AI use along the way. Be curious, ask questions, and dive deep into the projects—your portfolio (and your network) will thank you later!
 
 ### Class Schedule
 - **Weekly Meetings**: 2 sessions (1.5 hours each)
-  - **Lab Day**: Focus on hands-on building, collaborative exercises, and practical implementation.
-  - **Content Day**: Context setting, demonstrations, and deep dives into key concepts.
+  - **Content Day (Monday)**: Architecture, surfaces, discovery, and responsible AI concepts—context setting and deep dives that inform what you build next.
+  - **Lab Day (Wednesday)**: Hands-on building, PR/code review practice, and progress on your current product.
 
 ### Learning Approach
 - **Active Learning**: Class time is dedicated to building projects and working through challenges collaboratively. Lectures are assigned as homework via readings or recorded videos.
+- **Spiral Curriculum**: Architecture, responsible AI practices, and production deployment aren't one-time topics—they return each time you build something new, at increasing depth.
 - **Flexible Labs**: Creating deliverables to showcase on GitHub, such as functional prototypes, architecture diagrams, and documentation.
 
 ### Tools and Platforms
 Students will use the following tools throughout the course:
-- **GitHub**: For version control and project collaboration.
+- **GitHub**: For version control, pull requests, and project collaboration.
 - **Slack**: For communication and peer support.
-- **AI Tools**: Exploring technologies like GitHub Copilot and ChatGPT for coding assistance and QA.
-- **Development Frameworks**: React (with minimal JavaScript), Express, and database systems.
-- **Cloud Platforms**: Hands-on experience with cloud infrastructure for deployment and scalability.
+- **AI Tools**: Cursor, GitHub Copilot, Claude, and similar assistants for prompting, agents, coding, debugging, and QA—used responsibly and reviewed like any other contribution.
+- **Development Frameworks**: Next.js as the shared example stack, with exposure to CLI scripting, mobile/cross-platform tooling, and chat/LLM interfaces (including MCP-style tool connections) depending on your product's surface.
+- **Cloud Platforms**: Hands-on experience with cloud infrastructure for deployment, environments, and scalability.
 
 ---
 
@@ -46,8 +47,15 @@ Students will use the following tools throughout the course:
 
 ### AI-Forward Development
 - Using AI for code generation, debugging, and optimization.
-- Understanding AI’s role in systems design and how to work alongside AI tools effectively.
-- QA and testing in an AI-driven workflow.
+- Understanding AI's role in systems design and how to work alongside AI tools effectively.
+- Responsible AI engineering: pull requests, code review, automated testing, evals, and human-in-the-loop practices.
+- Connecting tools and services (including MCP-style integrations) to extend what a product or workflow can do.
+
+### Product Discovery and Consulting Skills
+- Identifying problems worth solving: for yourself, for a business or entrepreneur in your network, and for your own product or venture.
+- Discovery conversations and scoping a real problem into an architecture diagram and README-as-spec.
+- Mapping workflow pain points to lightweight, AI-enabled solutions.
+- Communicating with stakeholders, delivering demos, and writing handoff documentation—skills that translate to product and tech consulting/support roles.
 
 ### Collaborative Development
 - Agile workflows: Sprints, standups, and task management.
@@ -95,24 +103,26 @@ Students will use the following tools throughout the course:
 ## Grading and Expectations
 ### Grading Breakdown
 1. **Attendance**: Regular attendance is critical for hands-on labs and collaborative exercises.
-2. **Project Delivery**: Graded based on GitHub commits, functionality of deliverables, and adherence to specified criteria.
-3. **Participation**: Active engagement through Slack, peer support, and class discussions.
+2. **Project Delivery**: Graded across the three products (for yourself, for a business/entrepreneur in your network, and your own), based on GitHub commits, functionality, discovery/architecture artifacts, and demo quality.
+3. **Participation**: Active engagement through Slack, peer support, PR/code reviews, and class discussions.
 
 ### Project Requirements
-- All projects must be hosted on GitHub with clear documentation (e.g., a README file).
-- Deliverables include both working prototypes and supplementary artifacts (e.g., architecture diagrams, testing plans).
+- All three products must be hosted on GitHub with clear documentation (e.g., a README file).
+- Deliverables include working prototypes plus supplementary artifacts: architecture diagrams, README-as-spec, and—for Product 2—evidence of discovery with a real stakeholder and their feedback.
+- Use of AI tools should be visible and reviewable (e.g., in PRs and commit history), not hidden or unreviewed.
 
 ---
 
 ## Getting Started
 ### Prerequisites
-- Basic programming knowledge (e.g., Java or Python).
-- Familiarity with foundational web concepts (HTML/CSS) is helpful but not required.
+- No specific language or framework required; basic programming logic (e.g., Java or Python) is helpful.
+- Familiarity with foundational web concepts (HTML/CSS) is helpful but not required—this course spans CLI, web, mobile, and chat/LLM surfaces.
+- Curiosity about using AI tools responsibly as part of your engineering workflow.
 
 ### Resources
 To support your learning, you will have access to:
-- Recorded lectures and reading materials.
-- Sample projects and templates to kickstart development.
+- Recorded lectures, pre-class videos (e.g., AI fluency courses, instructor Looms), and reading materials.
+- Sample projects and templates to kickstart development across different surfaces.
 - Online forums for peer collaboration and troubleshooting.
 
 

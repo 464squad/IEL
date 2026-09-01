@@ -1,13 +1,13 @@
-# Immersive Engineering Lab (CMP 464/343) - Full Stack Web Development
+# Immersive Engineering Lab (CMP 464/343) - Full Stack Development
 
 [Department of Computer Science](http://lehman.edu/academics/mathematics-computer-science/index.php), Lehman College  
 
 ## Course Overview
-Welcome to the Immersive Engineering Lab! This course is designed to equip students with the practical skills needed to succeed in an AI-driven tech industry. Moving beyond just coding, this class emphasizes **systems design and architecture** to provide a holistic understanding of modern full-stack web development. Students will learn to conceptualize, build, and deploy scalable web applications while leveraging emerging technologies like AI to enhance productivity and quality.
+Welcome to the Immersive Engineering Lab! This course is designed to equip students with the practical skills needed to succeed in an AI-driven tech industry. Moving beyond just coding, this class emphasizes **systems design and architecture** to provide a holistic understanding of modern full stack development. Students will learn to conceptualize, build, and deploy applications across client surfaces—web, mobile, cross-platform, CLI, and chat (LLM)—backed by servers, APIs, databases, and cloud infrastructure, while leveraging AI to enhance productivity and quality.
 
 By the end of this course, students will:
-- Understand the core components of modern web applications, including front-end, back-end, databases, APIs, and cloud infrastructure.
-- Develop systems architecture diagrams and understand the rationale behind design decisions, such as caching and scalability.
+- Understand the core components of modern full stack applications, including client surfaces (web, mobile, cross-platform, CLI, and chat/LLM), servers, APIs, databases, and cloud infrastructure.
+- Develop systems architecture diagrams and explain the rationale behind design decisions.
 - Gain hands-on experience building projects collaboratively using industry-standard tools and workflows.
 - Learn how to integrate AI tools into the development process, focusing on testing, QA, and automation.
 
@@ -15,39 +15,47 @@ By the end of this course, students will:
 
 ## Course Format
 
-This course is about preparing you for the real world. The tech landscape is changing rapidly, and understanding how to design, build, and collaborate in an AI-driven environment will give you a competitive edge. Be curious, ask questions, and dive deep into the projects—your portfolio will thank you later!
+This course is about preparing you for the real world. The tech landscape is changing rapidly, and understanding how to design, build, and collaborate in an AI-driven environment will give you a competitive edge. You'll build three products over the semester—for yourself, for a business or entrepreneur in your network, and one of your own—practicing discovery, architecture, and responsible AI use along the way. Be curious, ask questions, and dive deep into the projects—your portfolio (and your network) will thank you later!
 
 ### Class Schedule
 - **Weekly Meetings**: 2 sessions (1.5 hours each)
-  - **Lab Day**: Focus on hands-on building, collaborative exercises, and practical implementation.
-  - **Content Day**: Context setting, demonstrations, and deep dives into key concepts.
+  - **Content Day (Monday)**: Architecture, surfaces, discovery, and responsible AI concepts—context setting and deep dives that inform what you build next.
+  - **Lab Day (Wednesday)**: Hands-on building, PR/code review practice, and progress on your current product.
 
 ### Learning Approach
 - **Active Learning**: Class time is dedicated to building projects and working through challenges collaboratively. Lectures are assigned as homework via readings or recorded videos.
+- **Spiral Curriculum**: Architecture, responsible AI practices, and production deployment aren't one-time topics—they return each time you build something new, at increasing depth.
 - **Flexible Labs**: Creating deliverables to showcase on GitHub, such as functional prototypes, architecture diagrams, and documentation.
 
 ### Tools and Platforms
 Students will use the following tools throughout the course:
-- **GitHub**: For version control and project collaboration.
+- **GitHub**: For version control, pull requests, and project collaboration.
 - **Slack**: For communication and peer support.
-- **AI Tools**: Exploring technologies like GitHub Copilot and ChatGPT for coding assistance and QA.
-- **Development Frameworks**: React (with minimal JavaScript), Express, and database systems.
-- **Cloud Platforms**: Hands-on experience with cloud infrastructure for deployment and scalability.
+- **AI Tools**: Cursor, GitHub Copilot, Claude, and similar assistants for prompting, agents, coding, debugging, and QA—used responsibly and reviewed like any other contribution.
+- **Development Frameworks**: Next.js as the shared example stack, with exposure to CLI scripting, mobile/cross-platform tooling, and chat/LLM interfaces (including MCP-style tool connections) depending on your product's surface.
+- **Cloud Platforms**: Hands-on experience with cloud infrastructure for deployment, environments, and scalability.
 
 ---
 
 ## Course Topics
 ### Systems Architecture and Full Stack Development
-- Introduction to core components of a modern web application:
-  - **Front-End**: HTML, CSS, minimal JavaScript, and React basics.
-  - **Back-End**: Express.js, RESTful APIs, and Microservices architecture.
+- Introduction to core components of modern full stack applications:
+  - **Front-End**: Web, mobile, cross-platform, CLI, and chat (LLM).
+  - **Back-End**: Servers and APIs.
   - **Databases**: Relational and NoSQL databases (PostgreSQL, MongoDB).
   - **Cloud Infrastructure**: Basics of deployment, scaling, and serverless functions.
 
 ### AI-Forward Development
 - Using AI for code generation, debugging, and optimization.
-- Understanding AI’s role in systems design and how to work alongside AI tools effectively.
-- QA and testing in an AI-driven workflow.
+- Understanding AI's role in systems design and how to work alongside AI tools effectively.
+- Responsible AI engineering: pull requests, code review, automated testing, evals, and human-in-the-loop practices.
+- Connecting tools and services (including MCP-style integrations) to extend what a product or workflow can do.
+
+### Product Discovery and Consulting Skills
+- Identifying problems worth solving: for yourself, for a business or entrepreneur in your network, and for your own product or venture.
+- Discovery conversations and scoping a real problem into an architecture diagram and README-as-spec.
+- Mapping workflow pain points to lightweight, AI-enabled solutions.
+- Communicating with stakeholders, delivering demos, and writing handoff documentation—skills that translate to product and tech consulting/support roles.
 
 ### Collaborative Development
 - Agile workflows: Sprints, standups, and task management.
@@ -55,61 +63,61 @@ Students will use the following tools throughout the course:
 - Communication and accountability through online platforms (Slack).
 
 ### Practical Design Choices
-- Systems architecture principles: Caching, load balancing, and fault tolerance.
+- Systems architecture principles.
 - Diagramming and whiteboarding exercises for design planning.
 - Writing effective documentation and README files for projects.
 
 ---
 
-<!-- Weekly Schedule and Topics — hidden while remapping for Fall 2026 (Mon/Wed; first class Mon Aug 31).
-     Content shifts past No Class Mondays. Duplicate "Introduction to JavaScript" Content day
-     combined into one so topics fit available Mondays. Final Project folded into Dec 14 (no Wed).
 ## Weekly Schedule and Topics
 
-| **Week** | **Content Day (Monday)** | **Lab Day (Wednesday)** | **Instructor Resources** |
-|----------|--------------------------|-------------------------|--------------------------|
-| 1 (Aug 31) | Course Introduction and Overview of Full Stack Web Development | Introduction to HTML and CSS | [Full Stack Web Development - Intro](https://www.youtube.com/live/Mmeo8DmTodE?si=TkF-o6E07ZGdOEXN) |
-| 2 (Sep 7) | No Class (Labor Day) | Introduction to JavaScript | [JavaScript Basics - MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) |
-| 3 (Sep 14) | Introduction to JavaScript | JavaScript DOM Manipulation | -- |
-| 4 (Sep 21) | No Class | React Foundations | [React Foundations](https://nextjs.org/learn/react-foundations) |
-| 5 (Sep 28) | React Foundations (JSX) | React Foundations (State and Props) | [Vite Quick Start](https://vite.dev/guide/) |
-| 6 (Oct 5) | React Foundations (Forms and Event Handling) | React Foundations (Conditional Rendering) | [Learn React](https://react.dev) |
-| 7 (Oct 12) | No Class (Columbus Day / Indigenous Peoples Day; Tue Oct 13 follows Monday schedule) | Deploying React Sites | -- |
-| 8 (Oct 19) | Recap of React Fundamental | HTTP GET / POST Requests | [Intro to Express](https://expressjs.com) |
-| 9 (Oct 26) | Introduction to Backend Programming | Deploying HTTP Servers | -- |
-| 10 (Nov 2) | [CRUD API](https://blog.logrocket.com/crud-rest-api-node-js-express-postgresql/) | End to End Full Stack Build | -- |
-| 11 (Nov 9) | Front End vs Back End | Tailwind CSS / Chakra UI | -- |
-| 12 (Nov 16) | Intro to NextJS | Containerization | -- |
-| 13 (Nov 23) | Introduction to Cloud Computing | No Class (Thanksgiving week) | -- |
-| 14 (Nov 30) | Introduction to AI and Automation in Development | Using AI Tools for Coding and Debugging | [GitHub Copilot](https://docs.github.com/en/copilot) |
-| 15 (Dec 7) | Testing and Quality Assurance in Systems | Writing Unit Tests and API Testing | [Jest Testing Guide](https://jestjs.io/docs/getting-started) |
-| 16 (Dec 14) | Capstone Project Review and Wrap-Up; Final Project Submission and Peer Reviews | — | -- |
-| 17 (Dec 15–21) | Finals Week | Finals Week | -- |
--->
+Fall 2026 meets Monday (Content) and Wednesday (Lab). First class: **Mon Aug 31**. The semester follows a spiral curriculum—architecture, responsible AI, and deployment thinking return each week as students build three products: one for themselves, one for a business or entrepreneur in their network, and one of their own.
+
+| **Week** | **Content Day (Monday)** | **Lab Day (Wednesday)** | **Pre-Class / Resources** |
+|----------|--------------------------|-------------------------|---------------------------|
+| 1 (Aug 31) | Course Overview *(completed Aug 31)* | SDLC & three-product arc; responsible AI ground rules (PRs, review, guardrails); AI-enabled workflows (Cursor, Copilot, prompting, agents) — first repo & PR with AI assistance | [AI Capabilities & Limitations](https://academy.claude.com/courses/ai-capabilities-and-limitations?utm_source=skilljar&utm_medium=banner&utm_content=body), [AI Fluency for Students](https://academy.claude.com/courses/ai-fluency-for-students) |
+| 2 (Sep 7) | No Class (Labor Day) | Full stack architecture spine (client → API → data → deploy); surfaces landscape (CLI, web, mobile, chat/LLM); SDLC walkthrough | Instructor Looms (TBD) |
+| 3 (Sep 14) | Discovery & problem–solution fit; scoping problems to a stack diagram | **Product 1** kickoff: README-as-spec, architecture draft, AI-assisted planning | — |
+| 4 (Sep 21) | No Class | **Product 1** build: thin vertical slice; intro testing & eval mindset with AI-generated code | — |
+| 5 (Sep 28) | Surface exposure — CLI & workflows; *same architecture, CLI as client* | **Product 1** build; PR & code review practices | — |
+| 6 (Oct 5) | Surface exposure — web (Next.js example); *same architecture, browser as client*; preview deploy intro | **Product 1** build; ship a preview environment | [Next.js Learn](https://nextjs.org/learn) (optional) |
+| 7 (Oct 12) | No Class (Columbus Day / Indigenous Peoples Day; Tue Oct 13 follows Monday schedule) | **Product 1** build continued | — |
+| 8 (Oct 19) | Surface exposure — mobile & cross-platform; *same architecture, mobile as client*; architecture recap | **Product 1** demo, retrospective & peer feedback | — |
+| 9 (Oct 26) | Surface exposure — chat/LLM & tool connections (MCP-style); AI workflows inside products | **Product 2** kickoff: discovery with a business or entrepreneur; workflow mapping | — |
+| 10 (Nov 2) | Data & API patterns (surface-agnostic); consulting framing — from workflow pain to solution brief | **Product 2** scoping, architecture & consulting-shaped deliverable plan | — |
+| 11 (Nov 9) | Responsible AI engineering: PRs, automated testing, evals, human-in-the-loop | **Product 2** build | [GitHub Copilot](https://docs.github.com/en/copilot) (optional) |
+| 12 (Nov 16) | Production deployment: env, secrets, shipping, monitoring basics | **Product 2** build | — |
+| 13 (Nov 23) | Consulting & product deliverables; **Product 2** demo & partner feedback | No Class (Thanksgiving week) | — |
+| 14 (Nov 30) | **Product 3** discovery; SDLC iteration — maintaining and evolving what you ship | **Product 3** kickoff: scope + architecture draft | — |
+| 15 (Dec 7) | Full stack + AI review: portfolio, final QA, production checklist | **Product 3** build & polish | — |
+| 16 (Dec 14) | Capstone: all three products — review, submission & peer reviews | — | — |
+| 17 (Dec 15–21) | Finals Week | Finals Week | — |
 
 ---
     
 ## Grading and Expectations
 ### Grading Breakdown
 1. **Attendance**: Regular attendance is critical for hands-on labs and collaborative exercises.
-2. **Project Delivery**: Graded based on GitHub commits, functionality of deliverables, and adherence to specified criteria.
-3. **Participation**: Active engagement through Slack, peer support, and class discussions.
+2. **Project Delivery**: Graded across the three products (for yourself, for a business/entrepreneur in your network, and your own), based on GitHub commits, functionality, discovery/architecture artifacts, and demo quality.
+3. **Participation**: Active engagement through Slack, peer support, PR/code reviews, and class discussions.
 
 ### Project Requirements
-- All projects must be hosted on GitHub with clear documentation (e.g., a README file).
-- Deliverables include both working prototypes and supplementary artifacts (e.g., architecture diagrams, testing plans).
+- All three products must be hosted on GitHub with clear documentation (e.g., a README file).
+- Deliverables include working prototypes plus supplementary artifacts: architecture diagrams, README-as-spec, and—for Product 2—evidence of discovery with a real stakeholder and their feedback.
+- Use of AI tools should be visible and reviewable (e.g., in PRs and commit history), not hidden or unreviewed.
 
 ---
 
 ## Getting Started
 ### Prerequisites
-- Basic programming knowledge (e.g., Java or Python).
-- Familiarity with foundational web concepts (HTML/CSS) is helpful but not required.
+- No specific language or framework required; basic programming logic (e.g., Java or Python) is helpful.
+- Familiarity with foundational web concepts (HTML/CSS) is helpful but not required—this course spans CLI, web, mobile, and chat/LLM surfaces.
+- Curiosity about using AI tools responsibly as part of your engineering workflow.
 
 ### Resources
 To support your learning, you will have access to:
-- Recorded lectures and reading materials.
-- Sample projects and templates to kickstart development.
+- Recorded lectures, pre-class videos (e.g., AI fluency courses, instructor Looms), and reading materials.
+- Sample projects and templates to kickstart development across different surfaces.
 - Online forums for peer collaboration and troubleshooting.
 
 

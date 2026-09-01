@@ -69,13 +69,9 @@ Students will use the following tools throughout the course:
 
 ---
 
-<!-- Weekly Schedule and Topics — Fall 2026 (Mon/Wed; first class Mon Aug 31). HIDDEN pending README overhaul.
-     SETTLED ARC (spiral / interwoven): architecture, responsible AI, and deploy thinking start week 1 and
-     return every week — never a standalone "architecture week" or "AI ethics week" after students already build.
-     Three problem-led products (self / network / own). Surface exposures (CLI → web → mobile → chat) each teach
-     the same full stack spine through a different client. Students choose how to build; exposures inform choice.
-     Week 1 Mon (Aug 31): Course Overview only — completed in class. SDLC + responsible AI moved to Wed Sep 2 with AI workflows.
 ## Weekly Schedule and Topics
+
+Fall 2026 meets Monday (Content) and Wednesday (Lab). First class: **Mon Aug 31**. The semester follows a spiral curriculum—architecture, responsible AI, and deployment thinking return each week as students build three products: one for themselves, one for a business or entrepreneur in their network, and one of their own.
 
 | **Week** | **Content Day (Monday)** | **Lab Day (Wednesday)** | **Pre-Class / Resources** |
 |----------|--------------------------|-------------------------|---------------------------|
@@ -96,7 +92,6 @@ Students will use the following tools throughout the course:
 | 15 (Dec 7) | Full stack + AI review: portfolio, final QA, production checklist | **Product 3** build & polish | — |
 | 16 (Dec 14) | Capstone: all three products — review, submission & peer reviews | — | — |
 | 17 (Dec 15–21) | Finals Week | Finals Week | — |
--->
 
 ---
     

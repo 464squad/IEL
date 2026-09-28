@@ -20,10 +20,12 @@
 
 [Your answer]
 
-**A moment when this problem shows up:**
-*Describe a specific day or moment. Where are you, what are you doing, what device do you have?*
+**The last 3 times this happened:**
+*Real, recent moments. For each: when and where, what went wrong, what it cost, what you did.*
 
-[Your answer]
+1. 
+2. 
+3. 
 
 **What it costs me:**
 *Be specific. How often, how much?*
@@ -37,6 +39,10 @@
 
 ## 2. Problem Statement
 
+**Gut check:**
+
+> I need **[X]** because **[Y]**.
+
 **Five Whys:**
 1. Why?
 2. Why?
@@ -46,9 +52,15 @@
 
 **Problem statement:**
 
-> I need **[X]** because **[Y]**.
+> **When** [a specific moment that keeps happening],
+> **I struggle to** [what goes wrong],
+> **which costs me** [time / money / energy / joy, with numbers if you can].
+> **This happens because** [root cause].
+> **Right now I** [what I do today], **but** [why it falls short].
 
-*Check: no app, website, or feature named. It's the need and the reason.*
+**I'll know this is solved when:** [something I could observe changing]
+
+*Check: none of these words appear: app, website, platform, dashboard, tool, AI, track, automate, notify, feature.*
 
 ---
 
@@ -67,6 +79,8 @@
 ---
 
 ## 4. Features & Benefits
+
+*Every feature should move me toward my "solved when" line.*
 
 | Feature (what it does) | Benefit (how my life gets better) | MVP or Later? |
 |---|---|---|

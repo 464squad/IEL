@@ -1,7 +1,9 @@
 # Product 1: Write Your First Product Spec
 
 > **In-class exercise · ~90 minutes**
-> By the end of class you'll have a first draft of a product spec for **Product 1: a product for yourself**, written in the `README.md` of your Product 1 repo.
+> By the end of class you'll have a first draft of a product spec for **Product 1: a product for yourself**.
+>
+> **No Git or GitHub experience needed today.** You'll write your spec in any document you can save. On Wednesday we'll set up Git and GitHub together and move your spec into your own Product 1 repository as its `README.md`.
 
 Product 1 is built for **you**. You are the user and the stakeholder. As we said in class: *"The stakeholder? It's your life."* So this spec isn't about finding a market or pitching an investor. It's about looking honestly at your own routines, frustrations and goals, then writing them down clearly enough that you (and an AI agent) can build something that actually helps.
 
@@ -11,7 +13,12 @@ Product 1 is built for **you**. You are the user and the stakeholder. As we said
 
 ## How to use this guide
 
-1. **Make a copy of the template.** Open [`SPEC_TEMPLATE.md`](./SPEC_TEMPLATE.md), copy all of it, and paste it into the `README.md` of your Product 1 repo. Your README *is* your spec.
+1. **Make a copy of the template.**
+   - Open [`SPEC_TEMPLATE.md`](./SPEC_TEMPLATE.md) in a new tab.
+   - Click the **Copy raw file** button (the icon with two overlapping squares, at the top right of the file) to copy all of it.
+   - Paste it into a document you can save and come back to: **Google Docs, Word, your Notes app, or a text editor** all work. Name it something like `Product 1 Spec`.
+   - You'll see symbols like `#`, `**`, `>`, and `|`. That's **Markdown**, a simple way to format text. GitHub turns those symbols into headings, bold text, and tables. Leave them in and just replace the `[bracketed]` parts with your answers.
+   - On Wednesday this document becomes the `README.md` of your Product 1 repository. In this course, your README *is* your spec.
 2. **Work through the sections in order.** Each one has:
    - 📖 **Learn**: what the section is for and what "good" looks like
    - 🪞 **Reflect**: questions to ask *yourself*
@@ -46,7 +53,7 @@ AI is your **thinking partner**, not your ghostwriter. Your spec should sound li
 - ✅ **Do** give it context: your notes, your draft, or even the class transcript ("here's what I said about my project in class…").
 - ❌ **Don't** ask it to "write my spec" or "give me a project idea." If the AI came up with your problem, it isn't your problem.
 - ❌ **Don't** paste in anything you wouldn't want stored (passwords, other people's private info).
-- 🧠 **You write the final words** in your README. You can borrow phrasing that fits, but read every line and make sure it's true for you.
+- 🧠 **You write the final words** in your spec. You can borrow phrasing that fits, but read every line and make sure it's true for you.
 
 A basic chat model (free ChatGPT, Gemini, Claude, etc.) is enough for today. You don't need an agent, because you're only asking it to talk with you.
 
@@ -466,7 +473,7 @@ flowchart LR
   FE -. deployed on .-> H["Vercel"]
 ```
 
-GitHub renders this diagram automatically. You can also draw yours on paper or in Excalidraw and add a photo to your repo.
+The code above is **Mermaid**, a text format that GitHub draws as a diagram. For today, the easiest option is to **draw your sketch on paper (or in [Excalidraw](https://excalidraw.com)) and take a photo**. You can also ask an AI to write the Mermaid text for you (see the prompt below). It will turn into a real diagram once your spec is on GitHub.
 
 ### 🪞 Reflect
 - Where am I, and what device am I holding, when this problem shows up?
@@ -526,7 +533,7 @@ one sentence so I can check that I understand it.
    *Me → my problem → what exists → what I'll build first → how I'll build it → how I'll know it worked.*
 2. **Run the final check prompt:**
    ```text
-   Here's my full product spec draft: [paste your README]. Act as a reviewer.
+   Here's my full product spec draft: [paste your spec]. Act as a reviewer.
    Check that (1) the problem statement has a specific moment, a concrete
    cost, and a root cause, and doesn't describe a solution, (2) every MVP
    feature connects to a benefit that moves me toward my "solved when" line,
@@ -535,16 +542,16 @@ one sentence so I can check that I understand it.
    List what's strong, what's unclear, and the top 3 questions I should answer
    next. Don't rewrite it.
    ```
-3. **Commit and push** your README to your Product 1 repo.
+3. **Save your spec document** (and your architecture photo) somewhere you'll find it Wednesday. We'll put it on GitHub together in class.
 4. **Share out:** post your **full problem statement** and your **"solved when"** line in the class chat or Slack.
 
 ### Done looks like
-- [ ] `README.md` in my Product 1 repo has all 5 sections filled in (drafts are fine)
+- [ ] My spec document has all 5 sections filled in (drafts are fine)
 - [ ] My problem statement has all five parts, is personal and specific, and is solution-free
 - [ ] I have an "I'll know this is solved when…" line
 - [ ] My MVP is small and every feature traces back to a benefit
 - [ ] My stack has a front end, a back end, and a reason for each
-- [ ] Committed and pushed
+- [ ] Saved my spec document and architecture sketch, ready for Wednesday
 
 > This is a **first draft**. Specs are living documents, the same way agile is iterative. You'll revise this as you build, test, and learn. Save your AI chat thread, because it's useful context when we start planning and building.
 

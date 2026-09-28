@@ -1,6 +1,7 @@
 <!--
   Product 1 Spec Template
-  Copy everything in this file into the README.md of your Product 1 repo.
+  Paste this into any document you can save (Google Docs, Word, Notes, a text
+  editor). On Wednesday it becomes the README.md of your Product 1 repository.
   Walkthrough, examples, and AI prompts are in the guide:
   https://github.com/464squad/IEL/blob/main/projects/product-1/product-spec-guide.md
   Delete these instructions and the italic hints as you fill each section in.

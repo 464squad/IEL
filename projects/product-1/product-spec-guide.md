@@ -3,7 +3,7 @@
 > **In-class exercise · ~90 minutes**
 > By the end of class you'll have a first draft of a product spec for **Product 1: a product for yourself**.
 >
-> **No Git or GitHub experience needed today.** You'll write your spec in any document you can save. On Wednesday we'll set up Git and GitHub together and move your spec into your own Product 1 repository as its `README.md`.
+> **No Git or GitHub experience needed today.** You'll write your spec in any document you can save. On Wednesday we'll set up Git and GitHub together and move your spec into your own Product 1 repository as its `README.md` (see the [Git & GitHub Setup Guide](./git-github-setup.md)).
 
 Product 1 is built for **you**. You are the user and the stakeholder. As we said in class: *"The stakeholder? It's your life."* So this spec isn't about finding a market or pitching an investor. It's about looking honestly at your own routines, frustrations and goals, then writing them down clearly enough that you (and an AI agent) can build something that actually helps.
 

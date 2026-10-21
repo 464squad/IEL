@@ -76,14 +76,14 @@ Fall 2026 meets Monday (Content) and Wednesday (Lab). First class: **Mon Aug 31*
 | **Week** | **Content Day (Monday)** | **Lab Day (Wednesday)** | **Pre-Class / Resources** |
 |----------|--------------------------|-------------------------|---------------------------|
 | 1 (Aug 31) | [Course Overview *(completed Aug 31)*](https://app.read.ai/analytics/meetings/01M0TMKXN0RSH847S6N02T5SW4?utm_source=Share_CopyLink) | [SDLC & three-product arc; responsible AI ground rules (PRs, review, guardrails); AI-enabled workflows (Cursor, Copilot, prompting, agents) — first repo & PR with AI assistance](https://app.read.ai/analytics/meetings/01M1J2KR2VXMS9S66WY5WNJX8R?utm_source=Share_CopyLink) | [AI Capabilities & Limitations](https://academy.claude.com/courses/ai-capabilities-and-limitations?utm_source=skilljar&utm_medium=banner&utm_content=body), [AI Fluency for Students](https://academy.claude.com/courses/ai-fluency-for-students) |
-| 2 (Sep 7) | No Class (Labor Day) | [Full stack architecture spine (client → API → data → deploy); surfaces landscape (CLI, web, mobile, chat/LLM); SDLC walkthrough](https://app.read.ai/analytics/meetings/01M243JXD2A0R750CJ6DMCN2QP?utm_source=Share_CopyLink) | Instructor Looms (TBD) |
+| 2 (Sep 7) | No Class (Labor Day) | [Full stack architecture spine (client → API → data → deploy); surfaces landscape (CLI, web, mobile, chat/LLM); SDLC walkthrough](https://app.read.ai/analytics/meetings/01M243JXD2A0R750CJ6DMCN2QP?utm_source=Share_CopyLink) | [Surfaces overview: same architecture, different client](surfaces/README.md) |
 | 3 (Sep 14) | [Discovery & problem–solution fit; scoping problems to a stack diagram](https://app.read.ai/analytics/meetings/01M2GYZSH721CJVXA8J06ZTSAN?utm_source=Share_CopyLink) | [**Product 1** kickoff: README-as-spec, architecture draft, AI-assisted planning](https://app.read.ai/analytics/meetings/01M2P44MCJTREVZ9WAX6CCJJR7?utm_source=Share_CopyLink) | — |
 | 4 (Sep 21) | No Class | **Product 1** build: thin vertical slice; intro testing & eval mindset with AI-generated code *(no recording; content moved to Week 6 Wednesday)* | — |
 | 5 (Sep 28) | **Product 1** spec workshop: [Product 1 Spec Guide](projects/product-1/product-spec-guide.md) (in-class exercise) *(CLI surface moved to async; see Week 6)* | [**Product 1**: Git & GitHub workflow setup; spec pushed to GitHub; branches & PR intro *(recording)*](https://app.read.ai/analytics/meetings/01M3T665XW6J34VGW6P91B26F8?utm_source=Share_CopyLink) | [Spec Template](projects/product-1/SPEC_TEMPLATE.md), [Git & GitHub Setup Guide](projects/product-1/git-github-setup.md) |
-| 6 (Oct 5) | Surface exposure — web (Next.js example); *same architecture, browser as client*; preview deploy intro | **Product 1** build: thin vertical slice; intro testing & eval mindset with AI-generated code *(moved from Week 5)*; ship a preview environment | CLI as client: instructor Loom (TBD; async, due before Oct 5), [Next.js Learn](https://nextjs.org/learn) (optional) |
+| 6 (Oct 5) | [Surface exposure — web: URLs, DevTools, HTML/CSS/JS, React, servers & Next.js; *same architecture, browser as client* *(recording)*](https://app.read.ai/analytics/meetings/01M471XZK43DDGWS9ATCT0RFS6?utm_source=Share_CopyLink) | **Product 1** build: thin vertical slice; intro testing & eval mindset with AI-generated code *(moved from Week 5)*; ship a preview environment | [⌨️ CLI surface guide](surfaces/cli.md), [🌐 Web surface guide](surfaces/web.md) (incl. deploying to Vercel), [Next.js Learn](https://nextjs.org/learn) (optional) |
 | 7 (Oct 12) | No Class (Columbus Day / Indigenous Peoples Day; Tue Oct 13 follows Monday schedule) | **Product 1** build continued | — |
-| 8 (Oct 19) | Surface exposure — mobile & cross-platform; *same architecture, mobile as client*; architecture recap | **Product 1** demo, retrospective & peer feedback | — |
-| 9 (Oct 26) | Surface exposure — chat/LLM & tool connections (MCP-style); AI workflows inside products | **Product 2** kickoff: discovery with a business or entrepreneur; workflow mapping | — |
+| 8 (Oct 19) | [**Product 1**: spec → repo → agents; researching your stack & learning resources with AI; grading overview *(recording)*](https://app.read.ai/analytics/meetings/01M5B3WJDTEY5X4VF2D0K87XVW?utm_source=Share_CopyLink) *(mobile & desktop surfaces: see guides)* | **Product 1** final build week; demo & code review prep | [📱 Mobile & cross-platform guide](surfaces/mobile-cross-platform.md), [🖥️ Desktop guide](surfaces/desktop.md), [Learn with Agents](modules/learn-with-agents.md), [**How Product 1 is graded**](projects/product-1/grading.md) |
+| 9 (Oct 26) | **Product 1 due**; presentations: pitch, architecture, demo & code review | **Product 1** presentations (cont.) & retrospective; **Product 2** kickoff: discovery with a business or entrepreneur; workflow mapping | [💬 Chat & LLM surface guide](surfaces/chat-llm.md) (chat/LLM & MCP surface, async) |
 | 10 (Nov 2) | Data & API patterns (surface-agnostic); consulting framing — from workflow pain to solution brief | **Product 2** scoping, architecture & consulting-shaped deliverable plan | — |
 | 11 (Nov 9) | Responsible AI engineering: PRs, automated testing, evals, human-in-the-loop | **Product 2** build | [GitHub Copilot](https://docs.github.com/en/copilot) (optional) |
 | 12 (Nov 16) | Production deployment: env, secrets, shipping, monitoring basics | **Product 2** build | — |
@@ -105,6 +105,7 @@ Fall 2026 meets Monday (Content) and Wednesday (Lab). First class: **Mon Aug 31*
 - All three products must be hosted on GitHub with clear documentation (e.g., a README file).
 - Deliverables include working prototypes plus supplementary artifacts: architecture diagrams, README-as-spec, and—for Product 2—evidence of discovery with a real stakeholder and their feedback.
 - Use of AI tools should be visible and reviewable (e.g., in PRs and commit history), not hidden or unreviewed.
+- **Product 1:** see [How Product 1 Is Graded](projects/product-1/grading.md): finalized spec as the README, a repo with working code and demo evidence, and a live code review.
 
 ---
 
@@ -119,6 +120,11 @@ To support your learning, you will have access to:
 - Recorded lectures, pre-class videos (e.g., AI fluency courses, instructor Looms), and reading materials.
 - Sample projects and templates to kickstart development across different surfaces.
 - Online forums for peer collaboration and troubleshooting.
+
+**Course guides**
+- [Surfaces: same architecture, different client](surfaces/README.md): [CLI](surfaces/cli.md) · [Web](surfaces/web.md) · [Mobile & cross-platform](surfaces/mobile-cross-platform.md) · [Desktop](surfaces/desktop.md) · [Chat & LLM](surfaces/chat-llm.md)
+- [Learn with Agents: from your spec to a learning plan](modules/learn-with-agents.md)
+- Product 1: [Spec Guide](projects/product-1/product-spec-guide.md) · [Spec Template](projects/product-1/SPEC_TEMPLATE.md) · [Git & GitHub Setup](projects/product-1/git-github-setup.md) · [Grading](projects/product-1/grading.md)
 
 
 

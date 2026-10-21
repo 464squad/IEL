@@ -441,6 +441,8 @@ Remember the architecture spine: **client → API → data → deploy**. Your te
 
 #### Front end: the *surface* (where you use it)
 
+> 📚 Go deeper on each option in the [Surfaces guides](../../surfaces/README.md): CLI, web, mobile and cross-platform, desktop, and chat/LLM. Each has a student-friendly architecture diagram and starter stacks.
+
 Your self-interview already hints at this. **Where are you when the problem happens?**
 
 | Surface | Good fit when… | Example tools |

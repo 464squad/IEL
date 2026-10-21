@@ -1,6 +1,6 @@
 # How Product 1 Is Graded
 
-> **Due: Monday, Oct 26** · **Presentations: in class, Mon Oct 26 and Wed Oct 28**
+> **Due: Monday, Nov 2** · **Presentations: in class, Mon Nov 2 and Wed Nov 4**
 > Product 1 is the product you built **for yourself**. We're **not** grading how finished it is. We're grading whether you have a clear plan, real progress you can show, and whether you understand what you built.
 
 > *"I'm not going to be judging you on completeness as much as… here's your spec. I can see what you built, and you have the ability to talk through it."*
@@ -107,11 +107,11 @@ These are the kinds of questions you'll get. **Practice answering them out loud*
 
 ## How to submit
 
-By **Monday, Oct 26**, before class:
+By **Monday, Nov 2**, before class:
 1. Make sure everything is **committed and pushed** (`git status` should say "nothing to commit").
 2. Open your repo on GitHub and **check that your README shows your full spec and a Demo section**.
 3. **Submit your repo link** the way your instructor asks (Brightspace or Slack).
-4. Have your repo open and ready to present in class on **Mon Oct 26 or Wed Oct 28**.
+4. Have your repo open and ready to present in class on **Mon Nov 2 or Wed Nov 4**.
 
 **Private repo?** Add your instructor as a collaborator: on GitHub, go to **Settings → Collaborators → Add people**.
 

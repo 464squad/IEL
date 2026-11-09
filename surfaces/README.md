@@ -42,6 +42,7 @@ Start with your spec: **where are you, and what device are you holding, when you
 | On the go: you need your phone, notifications, the camera or your location | **Mobile & cross-platform** | [📱 Mobile & Cross-platform](./mobile-cross-platform.md) |
 | At your computer, and you want a real app window that works offline or uses your files | **Desktop** | [🖥️ Desktop](./desktop.md) |
 | When the most natural way to use it is just asking or typing | **Chat / LLM** | [💬 Chat & LLM](./chat-llm.md) |
+| Behind the scenes: repetitive work should just *happen* (reminders, copying data, reports) | **Automation** (+ a simple interface) | [⚙️ Automations](../projects/product-2/automations.md) |
 
 > 💡 **You can start on one surface and move later.** A CLI that works is a great skateboard. When the logic works, you can put a web or mobile front end on the *same* kitchen.
 

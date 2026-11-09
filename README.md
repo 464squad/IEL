@@ -84,11 +84,11 @@ Fall 2026 meets Monday (Content) and Wednesday (Lab). First class: **Mon Aug 31*
 | 7 (Oct 12) | No Class (Columbus Day / Indigenous Peoples Day; Tue Oct 13 follows Monday schedule) | **Product 1** build continued | — |
 | 8 (Oct 19) | [**Product 1**: spec → repo → agents; researching your stack & learning resources with AI; grading overview *(recording)*](https://app.read.ai/analytics/meetings/01M5B3WJDTEY5X4VF2D0K87XVW?utm_source=Share_CopyLink) *(mobile & desktop surfaces: see guides)* | **Product 1** build; demo & code review prep | [📱 Mobile & cross-platform guide](surfaces/mobile-cross-platform.md), [🖥️ Desktop guide](surfaces/desktop.md), [Learn with Agents](modules/learn-with-agents.md), [**How Product 1 is graded**](projects/product-1/grading.md) |
 | 9 (Oct 26) | Surface exposure — chat/LLM & tool connections (MCP-style); AI workflows inside products | **Product 1** final build week; demo & code review prep | [💬 Chat & LLM surface guide](surfaces/chat-llm.md), [How Product 1 is graded](projects/product-1/grading.md) |
-| 10 (Nov 2) | **Product 1 due**; presentations: pitch, architecture, demo & code review | **Product 1** presentations (cont.) & retrospective; **Product 2** kickoff: discovery with a business or entrepreneur; workflow mapping | [How Product 1 is graded](projects/product-1/grading.md) |
-| 11 (Nov 9) | Data & API patterns (surface-agnostic); consulting framing — from workflow pain to solution brief *(moved from Week 10)* | **Product 2** scoping, architecture & consulting-shaped deliverable plan *(moved from Week 10)*; hold partner discovery calls this week | [GitHub Copilot](https://docs.github.com/en/copilot) (optional) |
-| 12 (Nov 16) | Responsible AI engineering: PRs, automated testing, evals, human-in-the-loop *(moved from Week 11)*; production deployment: env, secrets, shipping, monitoring basics | **Product 2** build | — |
-| 13 (Nov 23) | **Product 2** check-in: progress demo; consulting & product deliverables; collect partner feedback over the break | No Class (Thanksgiving week) | — |
-| 14 (Nov 30) | **Product 2** demo & partner feedback | **Product 3** kickoff: a small new MVP *or* evolve Product 1/2 into a business-shaped version; scope + architecture draft | — |
+| 10 (Nov 2) | **Product 1 due**; presentations: pitch, architecture, demo & code review | **Product 1** presentations (cont.) & retrospective; **Product 2** kickoff: discovery with a business or entrepreneur; workflow mapping | [How Product 1 is graded](projects/product-1/grading.md), [**Product 2 guide**](projects/product-2/README.md), [Find a Partner](projects/product-2/find-a-partner.md) |
+| 11 (Nov 9) | Data & API patterns (surface-agnostic); consulting framing — from workflow pain to solution brief *(moved from Week 10)* | **Product 2** scoping, architecture & consulting-shaped deliverable plan *(moved from Week 10)*; partner confirmed by Wed; discovery conversation #1 by Fri Nov 13 | [Discovery Guide](projects/product-2/discovery-guide.md), [Automations & Workflow Improvements](projects/product-2/automations.md), [Product 2 Spec Template](projects/product-2/SPEC_TEMPLATE.md), [Surfaces guides](surfaces/README.md) |
+| 12 (Nov 16) | Responsible AI engineering: PRs, automated testing, evals, human-in-the-loop *(moved from Week 11)*; production deployment: env, secrets, shipping, monitoring basics | **Product 2** build | [Learn with Agents](modules/learn-with-agents.md), [How Product 2 is graded](projects/product-2/grading.md) |
+| 13 (Nov 23) | **Product 2** check-in: progress demo; consulting & product deliverables; collect partner feedback over the break | No Class (Thanksgiving week) | [How Product 2 is graded](projects/product-2/grading.md) |
+| 14 (Nov 30) | **Product 2 due**; presentations: discovery story, demo, code review & partner feedback | **Product 3** kickoff: a small new MVP *or* evolve Product 1/2 into a business-shaped version; scope + architecture draft | — |
 | 15 (Dec 7) | SDLC iteration — maintaining and evolving what you ship; full stack + AI review: portfolio, final QA, production checklist | **Product 3** build & polish | — |
 | 16 (Dec 14) | Capstone: all three products — review, submission & peer reviews | — | — |
 | 17 (Dec 15–21) | Finals Week | Finals Week | — |
@@ -106,6 +106,7 @@ Fall 2026 meets Monday (Content) and Wednesday (Lab). First class: **Mon Aug 31*
 - Deliverables include working prototypes plus supplementary artifacts: architecture diagrams, README-as-spec, and—for Product 2—evidence of discovery with a real stakeholder and their feedback.
 - Use of AI tools should be visible and reviewable (e.g., in PRs and commit history), not hidden or unreviewed.
 - **Product 1:** see [How Product 1 Is Graded](projects/product-1/grading.md): finalized spec as the README, a repo with working code and demo evidence, and a live code review.
+- **Product 2:** see the [Product 2 guide](projects/product-2/README.md) and [How Product 2 Is Graded](projects/product-2/grading.md). Solo or in pairs; discovery (2+ conversations, 1 in person), spec and solution brief, a repo with working code, and a presentation with partner feedback (25% each).
 - **Product 3** is a shorter build (about two weeks): either a small new MVP, or evolve Product 1 or Product 2 into a business-shaped version.
 
 ---
@@ -126,6 +127,7 @@ To support your learning, you will have access to:
 - [Surfaces: same architecture, different client](surfaces/README.md): [CLI](surfaces/cli.md) · [Web](surfaces/web.md) · [Mobile & cross-platform](surfaces/mobile-cross-platform.md) · [Desktop](surfaces/desktop.md) · [Chat & LLM](surfaces/chat-llm.md)
 - [Learn with Agents: from your spec to a learning plan](modules/learn-with-agents.md)
 - Product 1: [Spec Guide](projects/product-1/product-spec-guide.md) · [Spec Template](projects/product-1/SPEC_TEMPLATE.md) · [Git & GitHub Setup](projects/product-1/git-github-setup.md) · [Grading](projects/product-1/grading.md)
+- Product 2: [Guide](projects/product-2/README.md) · [Find a Partner](projects/product-2/find-a-partner.md) · [Discovery Guide](projects/product-2/discovery-guide.md) · [Automations](projects/product-2/automations.md) · [Spec Template](projects/product-2/SPEC_TEMPLATE.md) · [Grading](projects/product-2/grading.md)
 
 
 
